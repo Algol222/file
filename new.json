@@ -1,4 +1,6 @@
-{
+
+export default [
+    {
         question: "In what contintent is Indonesia?",
         options:[
             {
@@ -49,4 +51,6 @@
             },
         ],
         correctAnswerIndex: 0
-    }
+
+    },
+]

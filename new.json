@@ -1,5 +1,5 @@
 {
-  "questions": [
+
     {
       "question": "In what continent is Indonesia?",
       "options": [
@@ -52,5 +52,5 @@
       ],
       "correctAnswerIndex": 0
     }
-  ]
+
 }
